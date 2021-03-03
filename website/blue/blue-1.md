@@ -7,4 +7,4 @@ slug: /
 
 This is a link to reference the Doc1 doc in `/docs`. 
 
-[Click Here](/docs/docs1.md)
+[Click Here](/docs/doc2.md)
